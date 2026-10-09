@@ -6,6 +6,7 @@ Neviem čo sem napísať ešte
 
 Team:
 - Michal Chrobák (Vedúcko)
+      - Charakteristika problému
 - Alex Makovický (Šaňo)
       - Popis modelu z Models library v nástroji NetLogo
 - Terézia Stankovičová
