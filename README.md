@@ -10,5 +10,9 @@ Team:
 - Alex Makovický (Šaňo)
       - Popis modelu z Models library v nástroji NetLogo
 - Terézia Stankovičová
+      - Zaujímavé poznatky získané z rôznych internetových encyklopédií (napr. 
+Wikipédia - nezabudnite si poznačiť zdroj)
 - Michal Kucka
+      - História/vývoj problému
 - Matej Krupa
+      - Popis ovládania modelu v nástroji NetLogo
