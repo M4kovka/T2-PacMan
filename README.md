@@ -9,3 +9,4 @@ Team:
 - Alex Makovický (Šaňo)
       - Popis modelu z Models library v nástroji NetLogo
 - Terézia Stankovičová
+- Michal Kucka
