@@ -10,3 +10,4 @@ Team:
       - Popis modelu z Models library v nástroji NetLogo
 - Terézia Stankovičová
 - Michal Kucka
+- Matej Krupa
