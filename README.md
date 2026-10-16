@@ -1,17 +1,10 @@
 # T2-PacMan
 
-!!Pastenite vašu časť wordu do LATEST dokumentacie,alebo to hoďte do dev branch!!
-
-UniZa team 2, PacMan improved
-########################################
-Wasup, asi všetci budete vedieť používať git
-Neviem čo sem napísať ešte 
-
-Team:
+Team contribution:
 - Michal Chrobák (Vedúcko)
       - Charakteristika problému
   
-- Alex Makovický (Šaňo)
+- Alex Makovický
       - GitHub
       - Popis modelu z Models library v nástroji NetLogo
   
