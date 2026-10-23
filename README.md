@@ -7,6 +7,7 @@ Team contribution:
 - Alex Makovický
       - GitHub
       - Popis modelu z Models library v nástroji NetLogo
+      - GUI 
   
 - Terézia Stankovičová
       - Zaujímavé poznatky získané z rôznych internetových encyklopédií (napr. Wikipédia - nezabudnite si poznačiť zdroj)
